@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are common exclusion criteria for diabetes trials?",
+    "ground_truth": "Common exclusion criteria for diabetes trials include severe diabetic complications such as diabetic ketoacidosis, advanced diabetic retinopathy or nephropathy, pregnancy, severe renal impairment, and recent use of certain diabetes medications or insulin."
+  },
+  {
+    "question": "What interventions are used in hypertension trials?",
+    "ground_truth": "Hypertension trials use interventions including pharmacological treatments such as aldosterone antagonists and renin-guided therapeutics, behavioral support telephone calls by nurses or pharmacists, home blood pressure monitoring, lifestyle interventions, and technology-based medication adherence support."
+  },
+  {
+    "question": "What are inclusion criteria for cardiac arrest trials?",
+    "ground_truth": "Inclusion criteria for cardiac arrest trials typically include patients who have experienced out-of-hospital or in-hospital cardiac arrest, adults of a specified age range, and patients who have achieved return of spontaneous circulation."
+  },
+  {
+    "question": "What types of diabetes are studied in clinical trials?",
+    "ground_truth": "Clinical trials study Type 1 Diabetes, Type 2 Diabetes, gestational diabetes, and general Diabetes Mellitus. Type 2 Diabetes is the most commonly studied, followed by Type 1 Diabetes."
+  },
+  {
+    "question": "What outcomes are measured in hypertension trials?",
+    "ground_truth": "Hypertension trials measure outcomes including blood pressure reduction, medication adherence, cardiovascular events, quality of life, and systolic and diastolic blood pressure levels."
+  },
+  {
+    "question": "What sponsors fund cardiac arrest trials?",
+    "ground_truth": "Cardiac arrest trials are funded by various sponsors including government agencies such as the National Institutes of Health, academic medical centers, and industry sponsors."
+  },
+  {
+    "question": "What is the typical age range for participants in diabetes trials?",
+    "ground_truth": "Diabetes trials typically enroll adult participants, with a minimum age of 18 years and maximum age ranging from 65 to 80 years depending on the specific trial."
+  },
+  {
+    "question": "What medications are excluded in diabetes trial participants?",
+    "ground_truth": "Diabetes trials often exclude participants who have recently used insulin, certain oral hypoglycemic agents, or other diabetes medications that could interfere with the study intervention."
+  },
+  {
+    "question": "What is the duration of most hypertension clinical trials?",
+    "ground_truth": "Hypertension trials vary in duration, with many lasting from 6 months to 3 years depending on the intervention and outcomes being measured."
+  },
+  {
+    "question": "What devices or technologies are used in cardiac arrest trials?",
+    "ground_truth": "Cardiac arrest trials use technologies including automated external defibrillators, therapeutic hypothermia devices, cardiac monitoring equipment, and mechanical CPR devices."
+  },
+  {
+    "question": "Are pregnant women excluded from diabetes trials?",
+    "ground_truth": "Yes, pregnant women are commonly excluded from diabetes trials due to the potential risks to the fetus and the physiological changes in glucose metabolism during pregnancy."
+  },
+  {
+    "question": "What lifestyle interventions are tested in hypertension trials?",
+    "ground_truth": "Lifestyle interventions in hypertension trials include dietary modifications, physical activity programs, weight reduction strategies, sodium reduction, and behavioral counseling."
+  },
+  {
+    "question": "What renal conditions exclude patients from diabetes trials?",
+    "ground_truth": "Patients with severe renal impairment, end-stage renal disease, or significantly elevated creatinine levels are commonly excluded from diabetes trials due to altered drug metabolism and safety concerns."
+  },
+  {
+    "question": "What is the primary endpoint in many cardiac arrest trials?",
+    "ground_truth": "The primary endpoint in cardiac arrest trials is often survival to hospital discharge or 30-day survival, with secondary endpoints including neurological outcomes and quality of life."
+  },
+  {
+    "question": "How are patients recruited in hypertension trials?",
+    "ground_truth": "Patients in hypertension trials are recruited through primary care clinics, cardiology practices, community health centers, and referrals from healthcare providers."
+  },
+  {
+    "question": "What blood glucose levels are required for diabetes trial eligibility?",
+    "ground_truth": "Diabetes trials typically require participants to have HbA1c levels within a specified range, often between 7% and 10%, to confirm diabetes diagnosis and ensure appropriate disease severity for the study."
+  },
+  {
+    "question": "What cardiovascular conditions exclude patients from cardiac arrest trials?",
+    "ground_truth": "Patients with terminal illness, known coagulation disorders, or do-not-resuscitate orders are commonly excluded from cardiac arrest trials."
+  },
+  {
+    "question": "What are the phases of diabetes clinical trials?",
+    "ground_truth": "Diabetes clinical trials are conducted in Phase 1 (safety), Phase 2 (efficacy), Phase 3 (large-scale efficacy and safety), and Phase 4 (post-market surveillance) stages."
+  },
+  {
+    "question": "What is the role of placebo in hypertension trials?",
+    "ground_truth": "Placebo controls are used in hypertension trials to compare the effectiveness of the active intervention against no treatment, ensuring that observed blood pressure reductions are due to the treatment rather than other factors."
+  },
+  {
+    "question": "What comorbidities are studied alongside hypertension in clinical trials?",
+    "ground_truth": "Hypertension trials often study comorbidities including diabetes mellitus, chronic kidney disease, heart failure, coronary artery disease, and obesity alongside hypertension management."
+  }
+]

@@ -1,0 +1,40 @@
+# LLM & embeddings
+openai>=2.26.0,<3.0.0
+
+# Agent framework
+langchain>=1.2.0,<2.0.0
+langchain-openai>=1.2.0,<2.0.0
+langchain-community>=0.4.0,<1.0.0
+langgraph>=1.1.0,<2.0.0
+
+# LangSmith tracing
+langsmith>=0.8.0,<1.0.0
+
+# RAG evaluation
+ragas>=0.4.0,<1.0.0
+
+# Vector DB
+pgvector>=0.4.0,<1.0.0
+psycopg2-binary>=2.9.0,<3.0.0
+
+# Web search
+tavily-python>=0.3.3,<1.0.0
+
+# HTTP client
+httpx>=0.27.0,<1.0.0
+
+# Data processing
+pandas>=2.2.0,<3.0.0
+
+# Environment & config
+python-dotenv>=1.0.0,<2.0.0
+
+# Logging
+structlog>=24.0.0,<25.0.0
+
+# UI
+streamlit>=1.35.0,<2.0.0
+
+# Testing
+pytest>=8.2.0,<9.0.0
+pytest-asyncio>=0.23.0,<1.0.0

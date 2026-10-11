@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Add the project root to sys.path so that `import agent`, `import retrieval`,
+# etc. work without installing the package.
+pythonpath = ["."]
